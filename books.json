@@ -1,0 +1,24 @@
+[
+    {
+        "isbn": "9787020000001",
+        "title": "红楼梦",
+        "author": "曹雪芹",
+        "category": "文学",
+        "publish_date": "2018-05-20",
+        "is_borrowed": true,
+        "borrower": "张三",
+        "borrow_date": "2026-06-28",
+        "return_date": null
+    },
+    {
+        "isbn": "9787111234567",
+        "title": "数据结构与算法",
+        "author": "李四",
+        "category": "2023-08-10",
+        "publish_date": "2023-08-10",
+        "is_borrowed": false,
+        "borrower": null,
+        "borrow_date": null,
+        "return_date": null
+    }
+]
